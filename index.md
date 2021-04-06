@@ -73,7 +73,9 @@
         </tr>
     </tbody>
 </table>
+
 ----
+
 ## Demo for Predicted Emotion
 
 <table>
