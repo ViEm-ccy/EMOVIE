@@ -1,5 +1,5 @@
 # EMOVIE Dataset & EMSpeech Demo Page
-
+----
 
 ## Sample for Predicted Emotion
 
@@ -73,5 +73,56 @@
         </tr>
     </tbody>
 </table>
-
+----
 ## Demo for Predicted Emotion
+
+<table>
+    <thead>
+        <th>Index</th>
+        <th>Sample with Polarity '1' (Positive)</th>
+        <th>Sample with Polarity '-1' (Negative)</th>
+    </thead>
+    <tbody>
+        <tr>
+            <th>#1</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/1005P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/1005P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>#2</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/1013P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/1013P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>#3</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/10033P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/10033P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>#4</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/10108P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/10108P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>#5</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/10113P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/10113P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <th>#6</th>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_pos/10225P.wav" type="audio/wav"></audio></td>
+            <td><audio controls style="width: 150px;"><source src="demo/pol_neg/10225P.wav" type="audio/wav"></audio></td>
+        </tr>
+    </tbody>
+
+</table>
