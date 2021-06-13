@@ -6,7 +6,7 @@ The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simp
 
 ## License
 
-Any user of the dataset must follow the [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode) LICENSE.
+All users of the dataset must follow the [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode) LICENSE.
 
 ----
 
