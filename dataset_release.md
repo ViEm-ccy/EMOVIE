@@ -15,15 +15,15 @@ The dataset consists of two parts:
 - The label file (a csv file including file name, label and text content)
 
 The data structure of the dataset is :
-
+`
 │ readme.md
 
 │ labels.csv
 
 └─ wavs
 
- │├─ 1.wav
-
+  │├─ 1.wav
+`
 ---
 
 ## Download
