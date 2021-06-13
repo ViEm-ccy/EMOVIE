@@ -1,8 +1,8 @@
 # EMOVIE Dataset
 
+The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"
 
-- The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"
-----
+---
 
 ## License
 
