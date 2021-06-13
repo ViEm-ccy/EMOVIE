@@ -22,6 +22,8 @@ The data structure of the dataset is :
 > 
 > wavs
 >> 1.wav
+>> 
+>> ...
 
 
 ---
