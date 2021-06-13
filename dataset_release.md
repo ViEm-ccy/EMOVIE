@@ -16,14 +16,10 @@ The dataset consists of two parts:
 
 The data structure of the dataset is :
 
-`
-│ readme.md
-
-│ labels.csv
-
-└─ wavs
-
-  │├─ 1.wav`
+> readme.md
+> labels.csv
+> wavs
+>> 1.wav
 
 
 ---
