@@ -1,6 +1,7 @@
 # EMOVIE Dataset
 
-The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"
+
+- The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simple EmotionalText-to-Speech Model"
 ----
 
 ## License
@@ -9,6 +10,16 @@ The dataset of the paper: "EMOVIE: A Mandarin Emotion Speech Dataset with a Simp
 
 ## Description
 
+The dataset consists of two parts: 
+- The waveform files
+- The label file (a csv file including file name, label and text content)
+
+The data structure of the dataset is :
+
+│ readme.md
+│ labels.csv
+└─ wavs
+ │├─ 1.wav
 
 ---
 
@@ -18,7 +29,7 @@ In view of copyright reasons, researchers who are interested in applying for thi
 
 ---
 
-## Usage
+## Paper
 
 If you are using this dataset, please kindly cite our paper.
 
