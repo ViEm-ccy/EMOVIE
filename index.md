@@ -1,6 +1,11 @@
 # EMOVIE Dataset & EMSpeech Demo Page
 ----
 
+## Dataset 
+
+You can get the dataset at [EMOVIE](https://viem-ccy.github.io/EMOVIE/dataset_release)
+
+
 ## Sample for Predicted Emotion
 
 <table>
