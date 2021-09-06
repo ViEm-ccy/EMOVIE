@@ -40,4 +40,12 @@ In view of copyright reasons, researchers who are interested in applying for thi
 
 If you are using this dataset, please kindly cite our paper.
 
+`@inproceedings{cui21c_interspeech,
+  author={Chenye Cui and Yi Ren and Jinglin Liu and Feiyang Chen and Rongjie Huang and Ming Lei and Zhou Zhao},
+  title={{EMOVIE: A Mandarin Emotion Speech Dataset with a Simple Emotional Text-to-Speech Model}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={2766--2770},
+  doi={10.21437/Interspeech.2021-1148}
+}`
 ---
