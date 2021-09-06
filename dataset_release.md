@@ -32,7 +32,7 @@ The data structure of the dataset is :
 
 ## Download
 
-In view of copyright reasons, researchers who are interested in applying for this dataset, please read the license above carefully and send an application email with your purpose to <chenyecui@zju.edu.cn>, we will give you a reply with download link.
+In view of copyright reasons, researchers who are interested in applying for this dataset, please read the license above carefully and send an formal application email with your detail purpose and information about your school or orgnization to <chenyecui@zju.edu.cn>, we will give you a reply with download link after we review it.
 
 ---
 
